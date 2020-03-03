@@ -203,7 +203,7 @@ if [ $stage -le 9 ]; then
               vctk_dev_{enrolls,trials_f_all,trials_m_all} \
               libri_test_{enrolls,trials_f,trials_m} \
               vctk_test_{enrolls,trials_f_all,trials_m_all}; do
-    if [ $mcadams ]; then
+    if $mcadams; then
       echo $dset
       #copy content of the folder to the new folder
       utils/copy_data_dir.sh data/$dset data/$dset$anon_data_suffix || exit 1
