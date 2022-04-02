@@ -136,6 +136,19 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 ```
 
 ```
+@article{tomashenko2022voiceprivacy,
+  title={The VoicePrivacy 2020 Challenge: Results and findings},
+  author={Tomashenko, Natalia and Wang, Xin and Vincent, Emmanuel and Patino, Jose and Srivastava, Brij Mohan Lal and No{\'e}, Paul-Gauthier and Nautsch, Andreas and Evans, Nicholas and Yamagishi, Junichi and O’Brien, Benjamin and others},
+  journal={Computer Speech \& Language},
+  volume={74},
+  pages={101362},
+  year={2022},
+  publisher={Elsevier},
+  url={https://doi.org/10.1016/j.csl.2022.101362}
+}
+```
+
+```
 article{tomashenkovoiceprivacy,
   title={The {VoicePrivacy} 2020 {Challenge} Evaluation Plan},
   author={Tomashenko, Natalia and Srivastava, Brij Mohan Lal and Wang, Xin and Vincent, Emmanuel and Nautsch, Andreas and Yamagishi, Junichi and Evans, Nicholas and Patino, Jose and Bonastre, Jean-Fran{\c{c}}ois and No{\'e}, Paul-Gauthier and Todisco, Massimiliano},
@@ -150,6 +163,3 @@ For the post-evaluation analysis *novel anonymization metrics* have been integra
 
 - The Privacy ZEBRA: Zero Evidence Biometric Recognition Assessment: https://arxiv.org/pdf/2005.09413.pdf
 - Speech Pseudonymisation Assessment Using Voice Similarity Matrices: https://arxiv.org/pdf/2008.13144.pdf
-
-
-
