@@ -78,21 +78,21 @@ for the evalation and development data sets.
 
 
 
-## Organizers (in alphabetical order)
+## Organizers 
 
-- Jean-François Bonastre - University of Avignon - LIA, France
-- Nicholas Evans - EURECOM, France
-- Fuming Fang - NII, Japan
-- Andreas Nautsch - EURECOM, France
-- Paul-Gauthier Noé - University of Avignon - LIA, France
-- Jose Patino - EURECOM, France
-- Md Sahidullah - Inria, France
-- Brij Mohan Lal Srivastava - Inria, France
 - Natalia Tomashenko - University of Avignon - LIA, France
-- Massimiliano Todisco - EURECOM, France
-- Emmanuel Vincent - Inria, France
+- Brij Mohan Lal Srivastava - Inria, France
 - Xin Wang - NII, Japan
+- Emmanuel Vincent - Inria, France
+- Andreas Nautsch - EURECOM, France
+- Jose Patino - EURECOM, France
 - Junichi Yamagishi - NII, Japan and University of Edinburgh, UK
+- Nicholas Evans - EURECOM, France
+- Jean-François Bonastre - University of Avignon - LIA, France
+- Paul-Gauthier Noé - University of Avignon - LIA, France
+- Massimiliano Todisco - EURECOM, France
+- Md Sahidullah - Inria, France
+- Fuming Fang - NII, Japan
 
 Contact: organisers@lists.voiceprivacychallenge.org
 
